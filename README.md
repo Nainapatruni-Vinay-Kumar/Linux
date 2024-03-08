@@ -1,6 +1,6 @@
 # Linux
 I will add my Linux Practice Files here
-### 02-02-2024: Learned GIT Command
+### 02-02-2024: Learned GIT Commands
 ```sh
 git branch --set-upstream-to origin/main
 git add
