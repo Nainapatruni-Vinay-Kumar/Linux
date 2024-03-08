@@ -33,9 +33,11 @@ I will add my Linux Practice Files here
   ***
 **Some of the system calls for File I/O**
 + open()
-+ creat()
 + read()
 + write()
++ close()
+
+
   
   
 
