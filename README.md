@@ -21,13 +21,15 @@ I will add my Linux Practice Files here
 + **cd <path>** - change the directory to the path
 + **cd ..** - go back in the directory
 + **mkdir <dir_name>** - create a directory
++ **rmdir <dir_name>** - removes the directory
 + **touch <file_name>** - creates a file
++ **rm <file_name>** - removes the file
 + **ls** - List of the files in the directory
 + **ls -l** - List of the files with their permissions and storage space
 + **ls -il** - List of the files with their inode 
 + **cat <file_name>** -  Shows the contents of the file
 + **gcc -o <output_filename> <source_filename>** - compiles the c file
-+ **./(Output file)** -- runs the output of c file
++ **./(output_filename)** -- runs the output of c file
 + **gedit <file_name>** - open the file to edit
 + **cp <source_file> <dest_file>** - copy the files
   ***
@@ -43,7 +45,7 @@ I will add my Linux Practice Files here
 + Used **printf** from stdio.h
 + **copy --help** gives the structure of the copy command
 + Used **alias copy="./copyout"** 
-
++ lseek() - To change the offset of a file for reading or writing
 
   
   
