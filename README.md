@@ -32,10 +32,17 @@ I will add my Linux Practice Files here
 + **cp <source_file> <dest_file>** - copy the files
   ***
 **Some of the system calls for File I/O**
-+ open()
-+ read()
-+ write()
-+ close()
++ open() - To open a file
++ read() - To read a file
++ write() - To write into a file
++ close() - To close a file
+## 09-03-2024:
+**Implemented copy command in Linux**
++ **Command Line Arguments** - int argc, const char *argv[];
++ **Error Handling for open,read,write,close**
++ Used **printf** from stdio.h
++ **copy --help** gives the structure of the copy command
++ Used **alias copy="./copyout"** 
 
 
   
