@@ -16,7 +16,7 @@ I will add my Linux Practice Files here
 ## 07-03-2024:
 **File Systems, Directories in Linux**
 ## 08-03-2024: 
-**Basic Commands of Linus**
+**Basic Commands of Linux**
 + **pwd** - present working directory
 + **cd <path>** - change the directory to the path
 + **cd ..** - go back in the directory
